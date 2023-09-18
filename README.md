@@ -3,7 +3,6 @@ This is the Project "Statistics" in EECS 280 (Programming and Introductory Data 
 
 Project "Statistics" is the first of five projects that come in EECS 280, focusing on the very basics of C++.
 
-
 The specifications can be found further at https://eecs280staff.github.io/p1-stats/
 
 
